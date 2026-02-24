@@ -1,0 +1,7 @@
+{
+	"name": "@ghentcdh/atfjs",
+	"version": "0.1.0",
+	"dependencies": {
+		"chevrotain": "^11.1.1"
+	}
+}
